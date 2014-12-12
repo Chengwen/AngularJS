@@ -4,10 +4,10 @@ AngularJS
 AngularJS
 
 Controller
-Scripts/App/Mobile/commuteCalendar
+Scripts/App/Mobile/name
 
 
 
 View
-Views/Mobile/commuteCalendar
+Views/Mobile/name
 
